@@ -5,7 +5,7 @@ import os
 from tkinter import *
 from tkinter import messagebox
 from tkinter.filedialog import askdirectory
-import mysql.connector as mysql
+#import mysql.connector as mysql
 from PIL import ImageTk,Image
 
 
